@@ -5,7 +5,7 @@
   <img src="https://media.glassdoor.com/sql/2244250/rocket-chat-squarelogo-1581602649406.png">
 </p>
 
-# Project: Intoduce Video Call To Livechat
+# Project: Introduce Video Call To Livechat
 
 | **Student** | Deepak Agarwal |
 |:---|:---|
