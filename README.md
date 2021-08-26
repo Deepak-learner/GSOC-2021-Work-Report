@@ -75,7 +75,7 @@ Special thanks to my mentors for always being there when I need them. I will alw
  - In this project we develop the webrtc meet app from scratch and also add code to make the jitsi call work at livechat widget. So, now we have two video call options for livechat, one is webrtc meet app and other is jitsi meet app.
 
 <p align="center">
-  <img src="https://github.com/Deepak-learner/GSOC-21-Work-Report/blob/70c337f41ab0a188ab4db55b4ccbada41800d7d3/Screenshot%202021-08-26%20at%201.24.01%20PM.png">
+  <img src="https://github.com/Deepak-learner/GSOC-2021-Work-Report/blob/2b6de27c1ef246da37033402bf6620d9f8c4f09d/Screenshot%202021-08-26%20at%201.24.01%20PM.png">
 </p>
 
 ### Project Demo: 
