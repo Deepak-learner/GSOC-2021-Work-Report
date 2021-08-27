@@ -1,6 +1,4 @@
-# GSOC-2021-Work-Report
-![GSoC logo](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal.svg)
-<h3 align='center'> Project Sponsered By Rocket.Chat </h3>
+<h1 align='center',font-size='60'> Rocket.Chat Summer Of Code 🚀 </h1>
 <p align="center">
   <img src="https://media.glassdoor.com/sql/2244250/rocket-chat-squarelogo-1581602649406.png">
 </p>
@@ -17,7 +15,7 @@
 | **Website** | [https://deepak-learner.github.io/portfolio/](https://deepak-learner.github.io/portfolio/) |
 
 ## About Me
-I am Deepak Agarwal, a pre-final year (was a sophomore when started GSoC) B.Tech Information Technology student at Vellore Institute of Technology (VIT, Vellore). Feel free to contact me on any of the contact information mentioned above.
+I am Deepak Agarwal, a pre-final year (was a sophomore when started RCSoC) B.Tech Information Technology student at Vellore Institute of Technology (VIT, Vellore). Feel free to contact me on any of the contact information mentioned above.
 
 ## Mentors:
 Special thanks to my mentors for always being there when I need them. I will always be thankful to you. During this program, I get to learn many new things from you guys. Under your guidance, I was always on the right track and able to deliver this project successfully in the end. Looking forward to working with you guys again in future. 
@@ -54,18 +52,13 @@ Special thanks to my mentors for always being there when I need them. I will alw
 - Testing of all features: By deploying our project on ngrok, we have done multiple testing on different networks. Even the recorded demo video is on different networks and is working well.
 - Cost estimation of stun and turn server: Some stun servers are available for free of cost,  For example the Google STUN server is something you can freely use for development purposes, but, as a free service, there is no SLA. But the cost of turn server is high , but one has an option to implement its own turn server using coturn project.
 
-### Link to pull requests highlighting my work in different repositories as part of GSoC21 @RocketChat
+### Link to pull requests highlighting my work in different repositories as part of RCSoC21 @RocketChat
 
-  - [PR1](https://github.com/RocketChat/Rocket.Chat.Livechat/pull/617)
-  - [PR2](https://github.com/RocketChat/Rocket.Chat.Livechat/pull/618)
-  - [PR3](https://github.com/RocketChat/Rocket.Chat/pull/22854)
-  - [PR4](https://github.com/RocketChat/Rocket.Chat.Livechat/pull/629)
-  - [PR5](https://github.com/RocketChat/Rocket.Chat/pull/22959)
-  - [PR6](https://github.com/RocketChat/Rocket.Chat.js.SDK/pull/142)
-  - [PR7](https://github.com/RocketChat/Rocket.Chat/pull/22932)
-  - [PR8](https://github.com/RocketChat/Rocket.Chat.Livechat/pull/641)
+| **Pull Request** | [PR1](https://github.com/RocketChat/Rocket.Chat.Livechat/pull/617) | [PR2](https://github.com/RocketChat/Rocket.Chat.Livechat/pull/618) | [PR3](https://github.com/RocketChat/Rocket.Chat/pull/22854) | [PR4](https://github.com/RocketChat/Rocket.Chat.Livechat/pull/629) | [PR5](https://github.com/RocketChat/Rocket.Chat/pull/22959) | [PR6](https://github.com/RocketChat/Rocket.Chat.js.SDK/pull/142) | [PR7](https://github.com/RocketChat/Rocket.Chat/pull/22932) | [PR8](https://github.com/RocketChat/Rocket.Chat.Livechat/pull/641) |
+| :---:   | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **Status** | Merged | Merged | Merged | Merged | Merged | Approved | Merged | Under Review |
 
-### My overall contribution in Rocket.Chat organization pre, peri and post GSoC21
+### My overall contribution in Rocket.Chat organization pre, peri and post RCSoC21
 - Proof Of Concept( POC) : 
   - Demo implementation of our project using simple peer npm pacakage: 
     - [Demo](https://drive.google.com/file/d/1lV_FkZVevsCiFUJzenQTcKTEQtFGQg-C/view?usp=sharing)
@@ -95,8 +88,8 @@ Special thanks to my mentors for always being there when I need them. I will alw
  -  [My Project Propsal](https://docs.google.com/document/d/1ieTO8mlchgp-gxAKTL3EFmvm36a9B7GfetfgDAf9tVc/edit?usp=sharing)
  -  [Project Presentaion to Rocket.Chat Community](https://www.youtube.com/watch?v=tHyY0QVvRC8)
  
-### Further steps:
-1. Minor UI changes in accordance with Design team suggestions.
-2. Any improvements suggested by my mentor.
+### Future Scope:
+1. Device setting feature in webrtc meet app.
+2. Add new ddp events for livechat-calls.
 
 ## Thank you [Rocket.Chat](https://github.com/RocketChat) for an amazing summer of code!
